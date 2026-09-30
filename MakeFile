@@ -1,0 +1,8 @@
+CC = gcc
+CFLAGS = -Wall -02
+
+reflection: reflection.c
+		$(CC) $(CFLAGS) -o reflection reflection.c
+
+clean:
+		rm -f reflection

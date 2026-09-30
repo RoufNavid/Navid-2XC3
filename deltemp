@@ -1,0 +1,5 @@
+#! /bin/bash
+original_dir=$(pwd)
+cd "$1" || exit 1
+rm -f *.tmp
+cd "original_dir"

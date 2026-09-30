@@ -1,0 +1,1 @@
+I have learned the basic linxu commands in this lab. I learned that the linux command line I am using does not have a tradition GUI, and instead relies on the command line.
